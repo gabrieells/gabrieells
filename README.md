@@ -34,7 +34,7 @@ I'm *Gabriel Leite*, an IT student passionate about technology and innovation. I
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
 </div>
 
 ## 📊 Stats
