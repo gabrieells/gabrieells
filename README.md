@@ -27,6 +27,11 @@ I'm *Gabriel Leite*, an IT student passionate about technology and innovation. I
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"/>
+
 </div>
 
 ## 🧠 Studying at the moment
@@ -34,7 +39,6 @@ I'm *Gabriel Leite*, an IT student passionate about technology and innovation. I
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
 </div>
 
 ## 📊 Stats
